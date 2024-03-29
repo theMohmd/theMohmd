@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
-<p>
-  You can reach me at [**mim.mohrechi@gmail.com**](mim.mohrechi@gmail.com)
-
-</p> 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="center">A frontend developer with a passion for learning from Iran</h3>
 <h3 align="center">My skill set</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -41,3 +34,9 @@
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file -->
 </p>
+
+<h3 align="left">Connect with me:</h3>
+
+- 📫 You can to reach me at **mim.mohrechi@gmail.com**
+- <img height="16px" src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png"/> Click for my <a href="https://www.linkedin.com/in/mohmd-mohrechi-b52171194/"> linkedin </a>
+
